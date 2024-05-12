@@ -1,18 +1,24 @@
-### Hi there 👋
+# ¡Hola! 👋 Soy Rafael Soriano
 
-## My name is Rafael
+## Sobre mí
+¡Bienvenido a mi perfil de GitHub! Soy un apasionado desarrollador con experiencia en Java, SQL, Spring Boot, Vue.js, HTML, CSS y JavaScript. Siempre estoy buscando aprender y mejorar mis habilidades.
 
-<!--
-**rafaelsoriano04/rafaelsoriano04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tecnologías que manejo:
+- Java ☕
+- SQL 💾
+- Spring Boot 🚀
+- Vue.js 🖥️
+- HTML5
+- CSS
+- JavaScript
 
-Here are some ideas to get you started:
+## Proyectos destacados:
+- [Proyecto 1](link_al_proyecto_1): Breve descripción del proyecto.
+- [Proyecto 2](link_al_proyecto_2): Breve descripción del proyecto.
+- [Proyecto 3](link_al_proyecto_3): Breve descripción del proyecto.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contacto:
+- Correo electrónico: [tu_correo_electronico@example.com](mailto:tu_correo_electronico@example.com) 📧
+- Sitio web: [tu_sitio_web.com](https://www.tu_sitio_web.com) 🌐
+
+¡No dudes en contactarme si tienes alguna pregunta o sugerencia! Estoy aquí para ayudar. 😊
