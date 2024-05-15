@@ -18,7 +18,7 @@
 - GESTOR DE FACTURAS E INVENTARIO: Este proyecto se desarrollo con Java y Java Swing, utiliza una sistema de gestion de base de datos SQL Server y base de datos SQL a través de servicios de Azure. Permite crear, modificar, buscar y eliminar: productos, clientes, proveedores, facturas, provincias, ciudades y usuarios con control de persmisos. Tambíen visualizar listado de ventas, listado de facturas y kardex.
 
 ## Estadisticas:
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafasoirano04&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="400"  alt="rafasoriano04"/>
+![Rafael Soriano's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelsoriano04&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsoriano04&layout=compact&theme=radical)
 
 ## Contacto:
 - Correo electrónico: [raansopro324@gmail.com](mailto:raansopro324@gmail.com) 📧
